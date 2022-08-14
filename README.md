@@ -1,2 +1,2 @@
-# -BADASS-
+# BADASS
 in progres
