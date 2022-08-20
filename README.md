@@ -8,3 +8,6 @@ in progres
 
 ### Part two : 
 [GNS3: FRRouting Using Docker Platform - VXLANs](https://www.youtube.com/watch?v=u1ka-S6F9UI&t=193s)
+
+### others utile docs:
+[what is : node, host, 0.0.0.0 vs 127.0.0.1]([GNS3 intro](https://www.youtube.com/playlist?list=PLLIV0VIvYuAMqJZm-Ulr1qiMGzH6f0OVl))
