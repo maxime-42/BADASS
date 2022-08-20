@@ -2,7 +2,7 @@
 in progres
 
 ### Part one : 
-[GNS3](https://openclassrooms.com/en/courses/2581701-simulez-des-architectures-reseaux-avec-gns3)
+[Simulez des architectures réseaux avec GNS3](https://openclassrooms.com/en/courses/2581701-simulez-des-architectures-reseaux-avec-gns3)
 
 [GNS3 intro](https://www.youtube.com/playlist?list=PLLIV0VIvYuAMqJZm-Ulr1qiMGzH6f0OVl)
 
