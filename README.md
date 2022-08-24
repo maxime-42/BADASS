@@ -14,7 +14,8 @@ in progres
 [What is VXLAN ?](https://www.youtube.com/watch?v=WMLSD2y2Ig4&t=1091s)
 
 [GNS3: FRRouting Using Docker Platform - VXLANs](https://www.youtube.com/watch?v=u1ka-S6F9UI&t=193s)
-
+#### P2 Schema :
+![alt](P2/Diagramme sans nom.drawio.png)
 
 ### Part three : 
 [GNS3: FRRouting Using Docker Platform - EVPN](https://www.youtube.com/watch?v=Ek7kFDwUJBM&t=493s)
