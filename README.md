@@ -9,7 +9,7 @@ in progres
 [GNS3: FRRouting Using Docker Platform](https://www.youtube.com/watch?v=D4nk5VSUelg)
 
 ### Part two : 
-[RTFM](https://www.rfc-editor.org/rfc/rfc7348.txt)
+[RFC 7348](https://www.rfc-editor.org/rfc/rfc7348.txt)
 
 [What is VXLAN ?](https://www.youtube.com/watch?v=WMLSD2y2Ig4&t=1091s)
 
