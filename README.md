@@ -28,4 +28,5 @@ in progres
 [what is : node, host, 0.0.0.0 vs 127.0.0.1 ?](https://www.youtube.com/watch?v=91PrPbuHdhg)
 
 [What is  Bridge in networking ?](https://www.youtube.com/watch?v=OBlJ3QuEt9k)
+
 [spanning Treee](https://www.youtube.com/watch?v=CiO9k4Rxskk&t=272s)
