@@ -55,7 +55,7 @@ in progres
 [Configuration BGP - Part 3 sur 3](https://www.youtube.com/watch?v=Srcxz0qSESM)
 
 
-![alt](P3/![alt](P3/inter_intra_domaine.png))
+![alt](P3/inter_intra_domaine.png)
 
 ### others utile docs:
 [vidéos complementaire](https://www.youtube.com/channel/UCBar13z75pPtSQGnXWBSQTw/videos)
