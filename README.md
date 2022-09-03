@@ -22,6 +22,12 @@ in progres
 
 [What is MPLS](https://www.youtube.com/watch?v=3gm321tOxho)
 
+[OSPF concept] (https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=286s)
+
+[OSPF delve in more detail](https://www.youtube.com/watch?v=cM3OI_ZyRuQ)
+
+[Quick Configuration OSPF](https://www.youtube.com/watch?v=406jSqYaq3k)
+
 ### others utile docs:
 [Difference between Underlay Network and Overlay Network ?](https://ipwithease.com/difference-between-underlay-network-and-overlay-network/)
 
