@@ -18,15 +18,33 @@ in progres
 ![alt](P2/diagramme.drawio.png)
 
 ### Part three : 
+
+[What is MPLS and How Does it Work ](https://www.youtube.com/watch?v=E5Ud1m9h0yc)
+
+[Intro: VXLAN Flood and Learn Topology](https://www.youtube.com/watch?v=BhtCY1weWk8)
+
+[Control Plane vs Data Plane | The Ancient Soldier](https://www.youtube.com/watch?v=P9ZMugAf9lU)
+
+[Control Plane Policing](https://www.youtube.com/watch?v=BMG1sPiQ_DY)
+
+[EVP BGP playlist](https://www.youtube.com/watch?v=DK7eQrOuUA4&list=PL-_rblt6r2O4IbwJVSDHMrAOuHg_8kCsd&index=2)
+
 [GNS3: FRRouting Using Docker Platform - EVPN](https://www.youtube.com/watch?v=Ek7kFDwUJBM&t=493s)
 
 [What is MPLS](https://www.youtube.com/watch?v=3gm321tOxho)
+
+[MPLS | What Is Multiprotocol Label Switching](https://www.paloaltonetworks.com/cyberpedia/mpls-what-is-multiprotocol-label-switching#:~:text=MPLS%20Meaning,over%20private%20wide%20area%20networks.)
+
 
 [OSPF concept](https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=286s)
 
 [OSPF delve in more detail](https://www.youtube.com/watch?v=cM3OI_ZyRuQ)
 
 [Quick Configuration OSPF](https://www.youtube.com/watch?v=406jSqYaq3k)
+
+[BGP Overview](https://www.youtube.com/watch?v=_Z29ZzKeZHc&t=12s)
+
+[What is the border gateway protocol ](https://www.youtube.com/watch?v=_aLmzq-23pE)
 
 [BGB definition](https://fr.wikipedia.org/wiki/Border_Gateway_Protocol)
 
@@ -38,6 +56,7 @@ in progres
 
 
 ### others utile docs:
+[vidéos complementaire](https://www.youtube.com/channel/UCBar13z75pPtSQGnXWBSQTw/videos)
 [Difference between Underlay Network and Overlay Network ?](https://ipwithease.com/difference-between-underlay-network-and-overlay-network/)
 
 [what is : node, host, 0.0.0.0 vs 127.0.0.1 ?](https://www.youtube.com/watch?v=91PrPbuHdhg)
