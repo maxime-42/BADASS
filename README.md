@@ -28,6 +28,8 @@ in progres
 
 [Quick Configuration OSPF](https://www.youtube.com/watch?v=406jSqYaq3k)
 
+[BGB definition](https://fr.wikipedia.org/wiki/Border_Gateway_Protocol)
+
 ### others utile docs:
 [Difference between Underlay Network and Overlay Network ?](https://ipwithease.com/difference-between-underlay-network-and-overlay-network/)
 
