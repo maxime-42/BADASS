@@ -54,7 +54,7 @@ in progres
 
 [Configuration BGP - Part 3 sur 3](https://www.youtube.com/watch?v=Srcxz0qSESM)
 
-
+[Difference between OSPF and BGP](https://www.geeksforgeeks.org/difference-between-ospf-and-bgp/#:~:text=The%20main%20difference%20between%20OSPF,S.)
 ![alt](P3/inter_intra_domaine.png)
 
 ### others utile docs:
