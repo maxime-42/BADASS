@@ -54,8 +54,8 @@ in progres
 
 [Configuration BGP - Part 3 sur 3](https://www.youtube.com/watch?v=Srcxz0qSESM)
 
-![alt](https://d3i71xaburhd42.cloudfront.net/ba8f07383aba2922f01d9d93588701fd60fd2a91/1-Figure1-1.png)
 
+![alt](P3/![alt](P3/inter_intra_domaine.png))
 
 ### others utile docs:
 [vidéos complementaire](https://www.youtube.com/channel/UCBar13z75pPtSQGnXWBSQTw/videos)
