@@ -22,7 +22,7 @@ in progres
 
 [What is MPLS](https://www.youtube.com/watch?v=3gm321tOxho)
 
-[OSPF concept] (https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=286s)
+[OSPF concept](https://www.youtube.com/watch?v=Xb3CbIDMDRk&t=286s)
 
 [OSPF delve in more detail](https://www.youtube.com/watch?v=cM3OI_ZyRuQ)
 
