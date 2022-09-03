@@ -30,6 +30,13 @@ in progres
 
 [BGB definition](https://fr.wikipedia.org/wiki/Border_Gateway_Protocol)
 
+[Configuration BGP - Part 1 sur 3](https://www.youtube.com/watch?v=YjJ9kRKUSQk)
+
+[Configuration BGP - Part 2 sur 2](https://www.youtube.com/watch?v=xeZyEcJyDTQ)
+
+[Configuration BGP - Part 3 sur 3](https://www.youtube.com/watch?v=Srcxz0qSESM)
+
+
 ### others utile docs:
 [Difference between Underlay Network and Overlay Network ?](https://ipwithease.com/difference-between-underlay-network-and-overlay-network/)
 
