@@ -17,6 +17,11 @@ in progres
 #### P2 Schema :
 ![alt](P2/diagramme.drawio.png)
 
+VXLAN
+
+![alt](P2/vxlan.jpg)
+
+
 ### Part three : 
 
 [What is MPLS and How Does it Work ](https://www.youtube.com/watch?v=E5Ud1m9h0yc)
