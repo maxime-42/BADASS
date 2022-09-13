@@ -63,6 +63,8 @@ VXLAN
 
 ![alt](P3/inter_intra_domaine.png)
 
+![alt](P3/bgp_ospf.png)
+
 ### others utile docs:
 [vidéos complementaire](https://www.youtube.com/channel/UCBar13z75pPtSQGnXWBSQTw/videos)
 [Difference between Underlay Network and Overlay Network ?](https://ipwithease.com/difference-between-underlay-network-and-overlay-network/)
